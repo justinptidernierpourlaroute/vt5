@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.2.3_2"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Boutons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note thant you can still receive calls, text messages, and other updates.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160322Z" changeid="Audrey MASI">
+        <seg>mais vous pouvez toujours recevoir des appels, des textos ou des mises à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;WAKE&lt;/f0&gt; button to choose the desired screensaver.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160841Z" changeid="Audrey MASI">
+        <seg>Appuyez sur le bouton &lt;f0&gt;WAKE&lt;/f0&gt; pour sélectionner un écran de veille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;ON&lt;/f0&gt; button for &lt;f1&gt;2 sec&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T161034Z" changeid="Audrey MASI">
+        <seg>Appuyez &lt;f1&gt;2 sec&lt;/f1&gt; sur le bouton &lt;f0&gt;ON&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Congratulations!</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A few simple buttons make it easy to turn your device on or off, adjust the volume, and switch between ring and silent modes.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T155457Z" changeid="Audrey MASI">
+        <seg>Vous pouvez facilement éteindre ou allumer votre smartphone, en régler le volume ou basculer entre sonnerie et vibreur au moyen d'un nombre réduit de boutons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- listen to music:</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>- écouter de la musique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see &lt;a0&gt;Setting up the screensaver&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T155841Z" changeid="Audrey MASI">
+        <seg>Pour plus d'informations, consultez &lt;a0&gt;Réglage de l'écran de veille&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- When you're not actively using your device, you can lock it to turn off the display and save the battery.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T155539Z" changeid="Audrey MASI">
+        <seg>- Quand vous n'utilisez pas votre appareil, vous pouvez le verrouiller et mettre ainsi l'écran en veille pour économiser la batterie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: &lt;f1&gt;3D Animated&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : &lt;f1&gt;3D Animated&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also:</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160325Z" changeid="Audrey MASI">
+        <seg>Vous pouvez aussi : </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3L's contact point on the Web: http://www.univ-paris8.fr</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T154937Z" changeid="Audrey MASI">
+        <seg>Adresse de contact T3L sur le web : http://www.univ-paris8.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your screensaver is set.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160605Z" changeid="Audrey MASI">
+        <seg>Le règlage de l'écran de veille est terminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;SLEEP&lt;/f0&gt; button to confirm the desired screensaver mode.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160910Z" changeid="Audrey MASI">
+        <seg>Appuyez sur le bouton &lt;f0&gt;SLEEP&lt;/f0&gt; pour confirmer le type d'écran de veille souhaité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the device locks if you don’t touch the screen for a minute.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160545Z" changeid="Audrey MASI">
+        <seg>Par défaut, le smartphone est automatiquement verrouillé si vous restez plus d'une minute sans toucher l'écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You are now the proud owner of a unique smartphone&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160820Z" changeid="Audrey MASI">
+        <seg>&lt;f0&gt;Vous êtes désormais l'heureux propriétaire d'un smartphone exceptionnel.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3L's Z-OrgluB: excellence made simple.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160154Z" changeid="Audrey MASI">
+        <seg>Z-OrgluB de T3L, l'excellence en toute simplicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- When the device is locked, nothing happens if you touch the screen.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160310Z" changeid="Audrey MASI">
+        <seg>- Lorsqu'il est verrouillé, l'appareil ne réagit pas à vos pressions sur l'écran,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up your smartphone</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T160201Z" changeid="Audrey MASI">
+        <seg>Réglage du smartphone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up the screensaver</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T155846Z" changeid="Audrey MASI">
+        <seg>Réglage de l'écran de veille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>again.</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T155958Z" changeid="Audrey MASI">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- adjust the volume using the buttons on the side of the device while you're on a phone call or listening to music,</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110420T155722Z" changeid="Audrey MASI">
+        <seg>- régler le volume au moyen des boutons situés sur le côté de l'appareil pendant que vous êtes en communication ou en train d'écouter de la musique.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

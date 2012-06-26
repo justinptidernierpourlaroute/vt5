@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.2.3_2"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- When the device is locked, nothing happens if you touch the screen.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Lorsque l'appareil est verrouillé, rien ne se produit si vous touchez l'écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- When you're not actively using your device, you can lock it to turn off the display and save the battery.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Lorsque vous n'utilisez pas votre appareil, vous pouvez le verrouiller afin de mettre l'écran en veille et d'économiser la batterie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- adjust the volume using the buttons on the side of the device while you're on a phone call or listening to music,</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>- régler le volume en utilisant les boutons situés sur le côté de l'appareil pendant que vous êtes en communication ou en train d'écouter de la musique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- listen to music:</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>- écouter de la musique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You are now the proud owner of a unique smartphone&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Vous êtes maintenant l'heureux propriétaire d'un smartphone unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A few simple buttons make it easy to turn your device on or off, adjust the volume, and switch between ring and silent modes.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Quelques boutons vous permettent aisément d'éteindre ou d'allumer l'appareil, de régler le volume, et de faire votre choix entre le mode sonnerie et le mode vibreur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Boutons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the device locks if you don’t touch the screen for a minute.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par défaut, l'appareil se verrouille au bout d'une minute si vous ne touchez pas l'écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Congratulations!</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: &lt;f1&gt;3D Animated&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : &lt;f1&gt;3D Animated&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see &lt;a0&gt;Setting up the screensaver&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Pour plus d'informations, consultez &lt;a0&gt;Réglage de votre écran de veille&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note thant you can still receive calls, text messages, and other updates.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Sachez que vous pouvez tout de même recevoir des appels, des textos et d'autres mises à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;ON&lt;/f0&gt; button for &lt;f1&gt;2 sec&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez &lt;f1&gt;2 sec&lt;/f1&gt; sur le bouton &lt;f0&gt;ON&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up the screensaver</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Réglage de votre écran de veille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up your smartphone</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Réglage de votre smartphone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3L's Z-OrgluB: excellence made simple.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Le T3L Z-OrbluB : l'excellence en toute simplicité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3L's contact point on the Web:</seg>
+      </tuv>
+      <tuv lang="FR" changedate="20110418T125943Z" changeid="Paul">
+        <seg>[?]Contact T3L sur le Web :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3L's contact point on the Web: http://www.univ-paris8.fr</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Contact TL3 sur le Web : http://www.univ-paris8.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;SLEEP&lt;/f0&gt; button to confirm the desired screensaver mode.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez le bouton &lt;f0&gt;SLEEP&lt;/f0&gt; pour confirmer le mode écran de veille désiré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;WAKE&lt;/f0&gt; button to choose the desired screensaver.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez le bouton &lt;f0&gt;WAKE&lt;/f0&gt; pour sélectionner votre écran de veille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also:</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Vous pouvez également : </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your screensaver is set.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Votre écran de veille est réglé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>à nouveau.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.0.5_4"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up your answering machine</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Réglage de votre répondeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up the date and time</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Réglage de la date et de l'heure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the CLOCK key for 2 sec.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez  2 secondes sur la touche CLOCK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the FORWARD key to choose the desired day.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez la touche FORWARD pour sélectionner un jour de la semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: Sunday.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : dimanche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the BACKWARD key to choose the desired date.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez la touche FORWARD pour régler la date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: 12 May 2005.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : 12 Mai 2005.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>à nouveau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The device suggests a time of the day.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Une heure s'affiche à présent sur l'appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the FORWARD and BACKWARD keys to choose the desired time.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez les touches  FORWARD ou BACKWARD pour régler l'heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: 5:30 p.m.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : 5:30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to put hours and minutes in separately.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>L'heure et les minutes doivent être réglées séparément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the CLOCK key again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez à nouveau sur la touche CLOCK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now listen to the date and time setting.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Grâce à sa fonction audio, l'appareil vous fait à présent entendre votre réglage de la date et de l'heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up the date and time is complete!</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Le réglage de la date et de l'heure est terminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the CLOCK key for 2 sec.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez deux secondes sur la touche CLOCK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the FORWARD and BACKWARD keys to choose the desired day.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez les touches FORWARD ou  BACKWARD pour sélectionner un jour de la semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: Sunday.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : dimanche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the FORWARD and BACKWARD keys to choose the desired date.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez les touches FORWARD ou  BACKWARD pour sélectionner une date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: 12 May 2005.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : 12 mai 2005.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the CLOCK key for 2 sec. again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez à nouveau deux secondes sur la touche CLOCK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The device suggests a time of the day.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Une heure s'affiche à présent sur l'appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the FORWARD and BACKWARD keys to choose the desired time.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez les touches FORWARD ou  BACKWARD pour régler l'heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: 5:30 p.m.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : 5 : 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the CLOCK key again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez à nouveau sur la touche CLOCK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up the date and time is complete.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Le réglage de la date et de l'heure est terminé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Congratulations!</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Félicitation !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are now the proud owner of a unique alarm clock.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Vous êtes maintenant l'heureux propriétaire d'un réveil-matin unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T3L'S Contact point on the Web :</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Contact T3L sur le Web :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.univ-paris8.fr</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>http://www.univ-paris8.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up your T3L's alarm clock</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Réglage de votre réveil-matin T3L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the 'ALARM' key for 2 sec.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez deux secondes sur la touche ALARM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the 'Plus' and 'Minus' keys to choose the desired day.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez les touches PLUS et MOINS pour sélectionner un jour de la semaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: Monday.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : lundi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the 'Plus' and 'Minus' keys again to choose the desired date.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez à nouveau les touches PLUS et MOINS pour sélectionner la date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: 14 May 2006.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : 12 mai 2005.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the 'ALARM' key for 2 seconds again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez à nouveau deux secondes sur la touche ALARM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The alarm clock suggests a time of the day.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Une heure s'affiche à présent sur l'appareil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the 'Plus' and 'Minus' keys to choose the desired time.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Utilisez les touches PLUS et MOINS pour régler l'heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: 6:30 p.m.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Par exemple : 6 : 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to set the hours setting before the minutes setting.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Les heures doivent être réglées avant les minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the 'ALARM' key again.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Appuyez à nouveau sur la touche ALARM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now listen to the alarm clock's date and time setting.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Grâce à sa fonction audio, l'appareil vous fait à présent entendre votre réglage de la date et de l'heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up the T3L's alarm clock date and time is complete.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Le réglage de la date et de l'heure du réveil-matin T3L est terminé.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

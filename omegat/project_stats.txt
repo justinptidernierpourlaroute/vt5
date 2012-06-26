@@ -1,0 +1,14 @@
+24/04/11 11:22
+Données du projet
+
+                           	Segments	Mots	Caractères (sans espaces)	Caractères (avec espaces)	
+Total :                    	      25	 203	                      954	                     1133	
+Restants :                 	       0	   0	                        0	                        0	
+Segments uniques :         	      22	 188	                      900	                     1067	
+Segments uniques restants :	       0	   0	                        0	                        0	
+
+
+Statistiques par fichiers :
+
+Nom du fichier               	Total segments	Segments restants	Segments uniques	Segments uniques restants	Total mots	Mots restants	Mots uniques	Mots uniques restants	Total caractères (sans espaces)	Caractères restants (sans espaces)	Caractères uniques (sans espaces)	Caractères uniques restants (sans espaces)	Total caractères (avec espaces)	Caractères restants (avec espaces)	Caractères uniques (avec espaces)	Caractères uniques restants (avec espaces)	
+tuto_04_smartphone_en_src.odt	            25	                0	              22	                        0	       203	            0	         188	                    0	                            954	                                 0	                              900	                                         0	                           1133	                                 0	                             1067	                                         0	
